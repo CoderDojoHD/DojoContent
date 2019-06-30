@@ -30,7 +30,8 @@ Um den **Anfänger Badge** zu erhalten muss ein Programm erstellt werden, dass d
 ### 2. **Fortgeschrittener Anfänger** Badge (Intermediate)
 <img align="right" width="75" height="104" src="https://github.com/CoderDojoHD/DojoContent/blob/master/Scratch/Badge-2-Intermediate.png">
 
-Um den **Fortgeschrittenen Anfänger Badge** zu erhalten muss ein Programm erstellt werden, dass die nachfolgenden Scratch Elemente enthält:
+Um den **Fortgeschrittenen Anfänger Badge** zu erhalten muss ein Programm erstellt werden, dass die nachfolgenden Scratch Elemente enthält
+<a href="https://github.com/CoderDojoHD/DojoContent/blob/master/Scratch/Badges%20-%20Scratch%20-%20Intermediate%20-%20Fortgeschrittener%20Anf%C3%A4nger.pdf">Link zum Dokument</a>:
 
 * Den **Malstift**
 * **Variablen** benutzen und in Schleifen verändern
@@ -42,7 +43,8 @@ Um den **Fortgeschrittenen Anfänger Badge** zu erhalten muss ein Programm erste
 ### 3. **Forgeschrittener Badge** (Advanced) 
 <img align="right" width="75" height="104" src="https://github.com/CoderDojoHD/DojoContent/blob/master/Scratch/Badge-3-Advanced.png">
 
-Um den Fortgeschrittenen Badge zu erhalten muss ein Programm erstellt werden, dass die nachfolgenden Scratch Elemente enthält:
+Um den Fortgeschrittenen Badge zu erhalten muss ein Programm erstellt werden, dass die nachfolgenden Scratch Elemente enthält
+<a href="https://github.com/CoderDojoHD/DojoContent/blob/master/Scratch/Badges%20-%20Scratch%20-%20Fortgeschrittener%20-%20Advanced.pdf">Link zum Dokument</a>:
 
 
 * **Klonen** von Figuren (Sprites)
