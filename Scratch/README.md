@@ -13,7 +13,7 @@
 ## Die Scratch Badges:
 
 ### 1. **Anfänger Badge** (Beginner)
-<img align="left" width="75" height="104" src="https://github.com/CoderDojoHD/DojoContent/blob/master/Scratch/Badge-1-Beginner.png">
+<img align="right" width="75" height="104" src="https://github.com/CoderDojoHD/DojoContent/blob/master/Scratch/Badge-1-Beginner.png">
 
 Um den Anfänger Badge zu erhalten muss ein Programm erstellt werden, dass die nachfolgenden Scratch Elemente enthält:
 
