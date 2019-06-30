@@ -16,13 +16,13 @@
 <img align="right" width="75" height="104" src="https://github.com/CoderDojoHD/DojoContent/blob/master/Scratch/Badge-1-Beginner.png">
 
 Um den **Anfänger Badge** zu erhalten muss ein Programm erstellt werden, dass die nachfolgenden Scratch Elemente enthält 
-[link zum Dokument] (https://github.com/CoderDojoHD/DojoContent/blob/master/Scratch/Badges%20-%20Scratch%20-%20Beginner%20-%20Anf%C3%A4nger.pdf) :
+<a href="https://github.com/CoderDojoHD/DojoContent/blob/master/Scratch/Badges%20-%20Scratch%20-%20Beginner%20-%20Anf%C3%A4nger.pdf"Link zum Dokument</a>:
 
 
 * **Bewegen & Drehen** von Figuren
 * Benutze **Tastatur Steuerung**
 * Benutze **X / Y Koordinaten** um Figuren (Sprites) zu positionieren
-* Ändere das **Aussehens** der **Bühne** (Stage) und **Figuren** (Sprites) mit Kostümen und "zeige dich" / "verstecke dich" (show/hide)
+* Ändere das **Aussehens** der **Bühne** (Stage) und **Figuren** (Sprites) mit Kostümen und **zeige dich** / **verstecke dich** (show/hide)
 * **Wiederhole fortlaufend** Schleife ("Forever" Schleife)
 * Erkennen, wenn sich Figuren (Sprites) **berühren**
 
