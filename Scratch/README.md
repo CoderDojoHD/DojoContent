@@ -17,10 +17,12 @@
 
 Inhalt ...
 
+
 ### 2. **Fortgeschrittener Anfänger** Badge (Intermediate)
 <img align="left" width="100" height="100" src="https://github.com/CoderDojoHD/DojoContent/blob/master/Scratch/Badge-2-Intermediate.png">
 
 Inhalt ...
+
 
 ### 3. **Forgeschrittener Badge** (Advanced) 
 <img align="left" width="100" height="100" src="https://github.com/CoderDojoHD/DojoContent/blob/master/Scratch/Badge-3-Advanced.png">
