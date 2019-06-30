@@ -15,7 +15,7 @@
 ### 1. **Anfänger Badge** (Beginner)
 <img align="right" width="75" height="104" src="https://github.com/CoderDojoHD/DojoContent/blob/master/Scratch/Badge-1-Beginner.png">
 
-Um den Anfänger Badge zu erhalten muss ein Programm erstellt werden, dass die nachfolgenden Scratch Elemente enthält:
+Um den **Anfänger Badge** zu erhalten muss ein Programm erstellt werden, dass die nachfolgenden Scratch Elemente enthält:
 
 
 * **Bewegen & Drehen** von Figuren
@@ -27,19 +27,29 @@ Um den Anfänger Badge zu erhalten muss ein Programm erstellt werden, dass die n
 
 
 ### 2. **Fortgeschrittener Anfänger** Badge (Intermediate)
-<img align="left" width="75" height="104" src="https://github.com/CoderDojoHD/DojoContent/blob/master/Scratch/Badge-2-Intermediate.png">
+<img align="right" width="75" height="104" src="https://github.com/CoderDojoHD/DojoContent/blob/master/Scratch/Badge-2-Intermediate.png">
 
-Inhalt ...Inhalt ...Inhalt ...Inhalt ...Inhalt ...Inhalt ...Inhalt ...Inhalt ...Inhalt ...Inhalt ...Inhalt ...Inhalt ...Inhalt ...Inhalt ...Inhalt ...Inhalt ...Inhalt ...
-Inhalt ...Inhalt ...Inhalt ...Inhalt ...Inhalt ...Inhalt ...Inhalt ...Inhalt ...Inhalt ...Inhalt ...Inhalt ...Inhalt ...Inhalt ...Inhalt ...Inhalt ...Inhalt ...Inhalt ...
-Inhalt ...Inhalt ...Inhalt ...Inhalt ...Inhalt ...Inhalt ...Inhalt ...Inhalt ...Inhalt ...Inhalt ...Inhalt ...Inhalt ...Inhalt ...Inhalt ...Inhalt ...Inhalt ...Inhalt ...
+Um den **Fortgeschrittenen Anfänger Badge** zu erhalten muss ein Programm erstellt werden, dass die nachfolgenden Scratch Elemente enthält:
+
+* Den **Malstift**
+* **Variablen** benutzen und in Schleifen verändern
+* Benutzen von **wiederhole bis Schleifen**
+* Eingabewerte mit dem **Frage Block** bekommen
+* Benutzen **mehrerer Listen** mit Werten in Verbindung **mit einem Index**
 
 
 ### 3. **Forgeschrittener Badge** (Advanced) 
-<img align="left" width="75" height="104" src="https://github.com/CoderDojoHD/DojoContent/blob/master/Scratch/Badge-3-Advanced.png">
+<img align="right" width="75" height="104" src="https://github.com/CoderDojoHD/DojoContent/blob/master/Scratch/Badge-3-Advanced.png">
 
-Inhalt ...Inhalt ...Inhalt ...Inhalt ...Inhalt ...Inhalt ...Inhalt ...Inhalt ...Inhalt ...Inhalt ...Inhalt ...Inhalt ...Inhalt ...Inhalt ...Inhalt ...Inhalt ...Inhalt ...
-Inhalt ...Inhalt ...Inhalt ...Inhalt ...Inhalt ...Inhalt ...Inhalt ...Inhalt ...Inhalt ...Inhalt ...Inhalt ...Inhalt ...Inhalt ...Inhalt ...Inhalt ...Inhalt ...Inhalt ...
-Inhalt ...Inhalt ...Inhalt ...Inhalt ...Inhalt ...Inhalt ...Inhalt ...Inhalt ...Inhalt ...Inhalt ...Inhalt ...Inhalt ...Inhalt ...Inhalt ...Inhalt ...Inhalt ...Inhalt ...
+Um den Fortgeschrittenen Badge zu erhalten muss ein Programm erstellt werden, dass die nachfolgenden Scratch Elemente enthält:
+
+
+* **Klonen** von Figuren (Sprites)
+* Benutze **Variablen** in geklonten Figuren (Sprite)
+* Erstellen und benutze **Weitere Blöcke**
+* **Wiederverwenden** von Code mit Hilfe von **Weitere Blöcke**
+* Verwende **Nachrichten** zum Auslösen von Verhalten in Figuren (Sprites)
+* Benutzen vor **Variablen** um das Programm zu konfigurieren
 
 ## Links zu historischen Inhalten
 * Scratch 2.0 Offline-Editor: https://uploads.scratch.mit.edu/scratch2download/
