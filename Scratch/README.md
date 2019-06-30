@@ -2,6 +2,8 @@
 
 ![Link to this page] (/CoderDojoHD/DojoContent/blob/master/Scratch/CoderDojoHD-Scratch.png)
 
+<img align="left" width="100" height="100" src="https://github.com/CoderDojoHD/DojoContent/blob/master/Scratch/CoderDojoHD-Scratch.png">
+
 ## Wichtige Links
 * Scratch 3.0 **Offline**-Editor: https://scratch.mit.edu/download
 * Scratch 3.0 **Online**-Editor: https://scratch.mit.edu/projects/editor/?tutorial=getStarted
