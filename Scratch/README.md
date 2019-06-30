@@ -1,8 +1,6 @@
-# Alles was wichtig ist für SCRATCH im CoderDojo Heidelberg
-
-Link to this page
 <img align="left" width="100" height="100" src="https://github.com/CoderDojoHD/DojoContent/blob/master/Scratch/CoderDojoHD-Scratch.png">
 
+# Alles was wichtig ist für SCRATCH im CoderDojo Heidelberg
 
 ## Wichtige Links
 * Scratch 3.0 **Offline**-Editor: https://scratch.mit.edu/download
