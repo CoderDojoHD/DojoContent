@@ -16,7 +16,7 @@
 <img align="right" width="75" height="104" src="https://github.com/CoderDojoHD/DojoContent/blob/master/Scratch/Badge-1-Beginner.png">
 
 Um den **Anfänger Badge** zu erhalten muss ein Programm erstellt werden, dass die nachfolgenden Scratch Elemente enthält 
-[link zum Dokument] (https://github.com/CoderDojoHD/DojoContent/blob/master/Scratch/Badges%20-%20Scratch%20-%20Beginner%20-%20Anf%C3%A4nger.pdf):
+[link zum Dokument] (https://github.com/CoderDojoHD/DojoContent/blob/master/Scratch/Badges%20-%20Scratch%20-%20Beginner%20-%20Anf%C3%A4nger.pdf) :
 
 
 * **Bewegen & Drehen** von Figuren
