@@ -12,15 +12,15 @@
 
 ## Die Scratch Badges:
 
-1. **Anfänger Badge** (Beginner)
+### 1. **Anfänger Badge** (Beginner)
 
 Inhalt ...
 
-1. **Fortgeschrittener Anfänger** Badge (Intermediate)
+### 2. **Fortgeschrittener Anfänger** Badge (Intermediate)
 
 Inhalt ...
 
-1. **Forgeschrittener Badge** (Advanced) 
+### 3. **Forgeschrittener Badge** (Advanced) 
 
 Inhalt ...
 
