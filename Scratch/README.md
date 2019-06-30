@@ -13,7 +13,7 @@
 ## Die Scratch Badges:
 
 ### 1. **Anfänger Badge** (Beginner)
-<img align="left" width="100" height="100" src="https://github.com/CoderDojoHD/DojoContent/blob/master/Scratch/Badge-1-Beginner.png">
+<img align="left" width="75" height="75" src="https://github.com/CoderDojoHD/DojoContent/blob/master/Scratch/Badge-1-Beginner.png">
 
 Inhalt ...Inhalt ...Inhalt ...Inhalt ...Inhalt ...Inhalt ...Inhalt ...Inhalt ...Inhalt ...Inhalt ...Inhalt ...Inhalt ...Inhalt ...Inhalt ...Inhalt ...Inhalt ...Inhalt ...
 Inhalt ...Inhalt ...Inhalt ...Inhalt ...Inhalt ...Inhalt ...Inhalt ...Inhalt ...Inhalt ...Inhalt ...Inhalt ...Inhalt ...Inhalt ...Inhalt ...Inhalt ...Inhalt ...Inhalt ...
@@ -22,7 +22,7 @@ Inhalt ...Inhalt ...Inhalt ...Inhalt ...Inhalt ...Inhalt ...Inhalt ...Inhalt ...
 
 
 ### 2. **Fortgeschrittener Anfänger** Badge (Intermediate)
-<img align="left" width="100" height="100" src="https://github.com/CoderDojoHD/DojoContent/blob/master/Scratch/Badge-2-Intermediate.png">
+<img align="left" width="75" height="75" src="https://github.com/CoderDojoHD/DojoContent/blob/master/Scratch/Badge-2-Intermediate.png">
 
 Inhalt ...Inhalt ...Inhalt ...Inhalt ...Inhalt ...Inhalt ...Inhalt ...Inhalt ...Inhalt ...Inhalt ...Inhalt ...Inhalt ...Inhalt ...Inhalt ...Inhalt ...Inhalt ...Inhalt ...
 Inhalt ...Inhalt ...Inhalt ...Inhalt ...Inhalt ...Inhalt ...Inhalt ...Inhalt ...Inhalt ...Inhalt ...Inhalt ...Inhalt ...Inhalt ...Inhalt ...Inhalt ...Inhalt ...Inhalt ...
@@ -30,7 +30,7 @@ Inhalt ...Inhalt ...Inhalt ...Inhalt ...Inhalt ...Inhalt ...Inhalt ...Inhalt ...
 
 
 ### 3. **Forgeschrittener Badge** (Advanced) 
-<img align="left" width="100" height="100" src="https://github.com/CoderDojoHD/DojoContent/blob/master/Scratch/Badge-3-Advanced.png">
+<img align="left" width="75" height="75" src="https://github.com/CoderDojoHD/DojoContent/blob/master/Scratch/Badge-3-Advanced.png">
 
 Inhalt ...Inhalt ...Inhalt ...Inhalt ...Inhalt ...Inhalt ...Inhalt ...Inhalt ...Inhalt ...Inhalt ...Inhalt ...Inhalt ...Inhalt ...Inhalt ...Inhalt ...Inhalt ...Inhalt ...
 Inhalt ...Inhalt ...Inhalt ...Inhalt ...Inhalt ...Inhalt ...Inhalt ...Inhalt ...Inhalt ...Inhalt ...Inhalt ...Inhalt ...Inhalt ...Inhalt ...Inhalt ...Inhalt ...Inhalt ...
