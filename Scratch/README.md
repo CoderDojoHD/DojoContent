@@ -10,5 +10,16 @@
 * Scratch Projekte in **deutsch**: https://projects.raspberrypi.org/de-DE/projects
 * Scratch Projekte in **englisch**: https://projects.raspberrypi.org/en/projects?software%5B%5D=scratch
 
+## Die Scratch Badges:
+
+1. Anfänger Badge (Beginner)
+Inhalt ...
+
+1. Fortgeschrittener Anfänger Badge (Intermediate)
+Inhalt ...
+
+1. Forgeschrittener Badge (Advanced) 
+Inhalt ...
+
 ## Links zu historischen Inhalten
 * Scratch 2.0 Offline-Editor: https://uploads.scratch.mit.edu/scratch2download/
